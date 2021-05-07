@@ -10,3 +10,7 @@
 **Mopidevi Venkateswarlu - S20180010107**
 
 **Yadlapally Uday Kumar - S20180010195**
+
+This is an E-learning platform
+
+The project includes following functionalities:
