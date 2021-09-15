@@ -66,4 +66,15 @@ It is a E-Learning website which provides functionality of registering in any co
 
 
 
+## Instructor Sequence Diagram
+<img src ="instructor_sequence_diagram.png">
+
+
+
+
+## Student Sequence Diagram
+<img src="student_sequence_diagram.png">
+
+
+
 
