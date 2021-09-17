@@ -8,8 +8,8 @@
 git clone https://github.com/Salman321/-Time2Learn.git
 
 # Install dependencies
-cd E-Learning-MERN && npm install
-cd E-Learning-MERN && cd client && npm install
+ npm install
+ cd client && npm install
 
 ```
 Create an Mongo Atlas cluster. Add  your  own MongoURI in keys.js file of  config folder. 
